@@ -1,0 +1,23 @@
+{
+  "name": "hamburgueria",
+  "version": "1.0.0",
+  "description": "Simulando o banco de dados de uma hamburgueria",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericaviana12/hamburgueria.git"
+  },
+  "author": "Bruno Dorea, Elen Grecco, Erica Viana, Wesley Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericaviana12/hamburgueria/issues"
+  },
+  "homepage": "https://github.com/ericaviana12/hamburgueria#readme",
+  "dependencies": {
+    "mongoose": "^8.11.0",
+    "string-similarity": "^4.0.4"
+  }
+}
